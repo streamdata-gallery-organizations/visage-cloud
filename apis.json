@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Visage Cloud",
+	"description": "This is a repository of visage cloud APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/visage-cloud.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://visage-cloud.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Visage Cloud",
+			"x-api-slug": "visage-cloud",
+			"description": "We employ a wide range of state-of-the-art techniques ranging from deep learning and neural networks to conventional machine learning algorithms and big data management to ensure a smooth experience for your face recognition and classification needs",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/25683970.png",
+			"humanURL": "http://visagecloud.com",
+			"baseURL": "https://visagecloud.com//",
+			"tags": "Visage Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/visage-cloud/master/_listings/visage-cloud/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Visage Cloud",
+	"include": [
+		{
+			"name": "Visage Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/visage-cloud/master/_listings/visage-cloud/apis.yaml"
+		}
+	]
+}
